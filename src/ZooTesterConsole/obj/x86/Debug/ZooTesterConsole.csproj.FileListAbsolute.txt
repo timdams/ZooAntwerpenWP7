@@ -1,0 +1,5 @@
+D:\Mijn Documenten\Werk\HA\PBA\My Dropbox\Programming\Zoo Antwerpen\ZooTesterConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Mijn Documenten\Werk\HA\PBA\My Dropbox\Programming\Zoo Antwerpen\ZooTesterConsole\bin\Debug\ZooTesterConsole.exe
+D:\Mijn Documenten\Werk\HA\PBA\My Dropbox\Programming\Zoo Antwerpen\ZooTesterConsole\bin\Debug\ZooTesterConsole.pdb
+D:\Mijn Documenten\Werk\HA\PBA\My Dropbox\Programming\Zoo Antwerpen\ZooTesterConsole\obj\x86\Debug\ZooTesterConsole.exe
+D:\Mijn Documenten\Werk\HA\PBA\My Dropbox\Programming\Zoo Antwerpen\ZooTesterConsole\obj\x86\Debug\ZooTesterConsole.pdb
